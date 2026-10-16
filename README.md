@@ -13,7 +13,7 @@ Our project focuses on a recent development in AI coding agents and considers th
 - Member 1 — Amrit Sooklal
 - Member 2 — Peace Bello
 - Member 3 — Arman Hajiani
-- Member 4 — Nico Restico
+- Member 4 — Nico Rustico
 
 ## Video Presentation
 
