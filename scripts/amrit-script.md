@@ -3,10 +3,12 @@
 **Section:** Introduction and Current Event  
 **Estimated speaking time:** 45–55 seconds
 
-## Script
+## Slide 1 — What Are AI Coding Agents?
 
-AI coding agents are AI-powered tools that can do more than just suggest lines of code. Traditional autocomplete predicts what code you might type next, while AI coding agents can take a goal, break it down into smaller steps, edit files, use tools, and work through a task with less direct input from the developer.
+Software development is changing as artificial intelligence becomes more advanced. Traditional code autocomplete suggests code as you type, but AI coding agents can go further. They can work through multiple steps, edit files, and run code to help complete a task. This means AI is moving beyond simply assisting developers to taking on more of the actual work.
 
-A recent example is OpenAI's Agents API, announced in September 2026. It gives developers a way to build AI agents that can use tools and carry out multi-step tasks. This reflects a broader shift in software development, where AI is moving beyond helping developers write code and toward assisting with more of the development process.
+## Slide 2 — OpenAI's Agents API
 
-But how do these agents actually work, and what can they do in practice? That's what we'll explore next.
+A recent example of this is OpenAI's Agents API, announced in September 2026. It allows developers to build AI agents that can use tools and work through multi-step tasks. This is important because it could change how developers build software. However, AI-generated work still needs to be checked for accuracy, quality, and security.
+
+So, are AI coding agents making developers more productive, or are they introducing new risks? Let's take a closer look at how these agents work.
