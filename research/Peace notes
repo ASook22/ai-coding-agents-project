@@ -1,63 +1,56 @@
-# Sources
+Benefits and risks of AI coding agents to software developers
+ 
 
-**Project:** Benefits and Risks of AI Coding Agents to Software Developers
+Benefit
+1. Faster coding
+AI can generate code suggestions and help developers complete programming tasks more quickly.
 
----
 
-## Source 1 — GitHub Copilot and Developer Productivity
+2. Increased productivity
+AI can help developers complete certain tasks with less manual effort.
 
-- **Author/Organization:** Eirini Kalliamvakou / GitHub
-- **Publication Date:** 2022-09-07 (updated 2024-05-21)
-- **URL:** https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
-- **Date Accessed:** 2026-10-20
 
-**Used For:**
+3. Reduced repetitive work
+AI can assist with routine coding tasks, allowing developers to focus on more complex problems.
 
-- Research on how AI coding assistants can help software developers write code faster and improve productivity.
-- Explaining how AI tools can reduce repetitive coding tasks and improve developers' working experience.
-- **Relevant Research Section:** Benefits of AI Coding Agents.
 
----
+4. Improved developer experience
+AI assistance can reduce frustration and make some coding tasks more enjoyable.
 
-## Source 2 — AI Coding Tools and Developer Productivity Risks
 
-- **Author/Organization:** Joel Becker, Nate Rush, Beth Barnes, and David Rein / METR
-- **Publication Date:** 2025-07-10
-- **URL:** https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
-- **Date Accessed:** 2026-10-20
+5. Assistance with unfamiliar code
+AI can help developers understand code and explore possible solutions, although its explanations must be checked.
 
-**Used For:**
 
-- Research showing that AI coding tools do not always make developers faster.
-- Understanding how reviewing and correcting AI-generated code can increase the time needed to complete programming tasks.
-- **Relevant Research Section:** Risks and Limitations of AI Coding Agents.
 
----
 
-## Source 3 — Security Risks of AI Coding Agents
 
-- **Author/Organization:** OWASP Gen AI Security Project
-- **Publication Date:** 2025 (exact date not specified)
-- **URL:** https://genai.owasp.org/llm-top-10/
-- **Date Accessed:** 2026-10-20
 
-**Used For:**
+Risks of AI Coding Agents
 
-- Understanding security risks associated with AI systems, including prompt injection, sensitive information disclosure, and unsafe outputs.
-- Explaining why developers should review, test, and secure AI-generated code before using it in software projects.
-- **Relevant Research Section:** Security and Privacy Risks of AI Coding Agents.
+1. Security vulnerabilities
+AI-generated code may introduce security problems if developers do not review and test it.
 
----
 
-## Source 4 — Changes in AI Coding Agent Productivity
+2. Incorrect code
+AI can produce code that looks correct but contains mistakes or unsafe behaviour.
 
-- **Author/Organization:** Joel Becker, Nate Rush, Tom Cunningham, David Rein, and Khalid Mahamud / METR
-- **Publication Date:** 2026-02-24
-- **URL:** https://metr.org/blog/2026-02-24-uplift-update/
-- **Date Accessed:** 2026-10-20
 
-**Used For:**
+3. Reduced productivity
+Developers may spend extra time checking and correcting AI-generated code.
 
-- Exploring how improvements in AI coding tools may change their impact on software developer productivity.
-- Understanding why research findings about AI coding agents can differ depending on the tools, developers, and tasks studied.
-- **Relevant Research Section:** Future Impact of AI Coding Agents on Software Development.
+
+4. Privacy concerns
+Sensitive information may be exposed when AI tools process confidential data.
+
+5. Overdependence on AI
+Developers may rely too heavily on AI suggestions rather than practising independent problem-solving.
+Related concern; needs a separate supporting study
+
+6. Inconsistent performance
+AI tools may help with some programming tasks but slow developers down on others.
+
+
+
+
+
