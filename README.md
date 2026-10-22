@@ -29,7 +29,7 @@ Our project focuses on a recent development in AI coding agents and considers th
 
 ## Research Sources
 
-Research references can be found in [`research/sources.txt`](research/sources.txt).
+Research references can be found in [`research/sources.md`](research/sources.md).
 
 ## Collaboration
 
