@@ -1,0 +1,36 @@
+[33m1c24645[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mNico-Branch[m[33m, [m[1;32mNico-Branch-backup[m[33m)[m HEAD@{0}: reset: moving to 1c24645
+[33m1c24645[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mNico-Branch[m[33m, [m[1;32mNico-Branch-backup[m[33m)[m HEAD@{1}: reset: moving to HEAD~1
+[33m04a71cf[m[33m ([m[1;31morigin/Nico-Branch[m[33m)[m HEAD@{2}: rebase (abort): returning to refs/heads/Nico-Branch
+[33m39e7667[m HEAD@{3}: rebase (pick): Add Nico's AI Coding Agent Research, Script and Source
+[33m1c24645[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mNico-Branch[m[33m, [m[1;32mNico-Branch-backup[m[33m)[m HEAD@{4}: rebase (start): checkout HEAD~1
+[33m04a71cf[m[33m ([m[1;31morigin/Nico-Branch[m[33m)[m HEAD@{5}: pull: Merge made by the 'ort' strategy.
+[33m1c24645[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mNico-Branch[m[33m, [m[1;32mNico-Branch-backup[m[33m)[m HEAD@{6}: rebase (finish): returning to refs/heads/Nico-Branch
+[33m1c24645[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mNico-Branch[m[33m, [m[1;32mNico-Branch-backup[m[33m)[m HEAD@{7}: rebase (pick): Added Nico's Video (How AI Programming Works)
+[33md666ce5[m HEAD@{8}: rebase (pick): Updated commit - Fixed lines in Nico-notes.md
+[33mb891f53[m HEAD@{9}: rebase (pick): Updated commit (renaming files from .txt to .md)
+[33m837e616[m HEAD@{10}: rebase (reword): Added Nico's AI Coding Agent Research.md, Script.md and Source.md
+[33mf9877b4[m HEAD@{11}: rebase: fast-forward
+[33mbac9e97[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{12}: rebase (start): checkout HEAD~4
+[33mf2160ed[m HEAD@{13}: rebase (finish): returning to refs/heads/Nico-Branch
+[33mf2160ed[m HEAD@{14}: rebase (pick): Added Nico's Video (How AI Programming Works)
+[33mb8080e5[m HEAD@{15}: rebase (reword): Updated commit - Fixed lines in Nico-notes.md
+[33mdd62f8c[m HEAD@{16}: rebase: fast-forward
+[33m2304678[m HEAD@{17}: rebase (start): checkout HEAD~3
+[33m707ce75[m HEAD@{18}: rebase (finish): returning to refs/heads/Nico-Branch
+[33m707ce75[m HEAD@{19}: rebase (pick): Added Nico's Video (How AI Programming Works)
+[33mdd62f8c[m HEAD@{20}: rebase (pick): Final commit - Nico's AI coding agents part - How they work
+[33m2304678[m HEAD@{21}: rebase (reword): Updated commit (renaming files from .txt to .md)
+[33m2247589[m HEAD@{22}: rebase: fast-forward
+[33mf9877b4[m HEAD@{23}: rebase (start): checkout HEAD~3
+[33mfec5939[m HEAD@{24}: rebase (finish): returning to refs/heads/Nico-Branch
+[33mfec5939[m HEAD@{25}: rebase (start): checkout HEAD~3
+[33mfec5939[m HEAD@{26}: commit: Added Nico's Video (How AI Programming Works)
+[33mbda6f61[m HEAD@{27}: commit: Final commit - Nico's AI coding agents part - How they work
+[33m2247589[m HEAD@{28}: commit: Final commit for Nico's AI coding agents part
+[33mf9877b4[m HEAD@{29}: commit: Add Nico's AI Coding Agent Research, Script and Source
+[33mbac9e97[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{30}: checkout: moving from main to Nico-Branch
+[33mbac9e97[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{31}: pull: Fast-forward
+[33m1505a98[m HEAD@{32}: checkout: moving from Nico-Branch to main
+[33m1505a98[m HEAD@{33}: checkout: moving from main to Nico-Branch
+[33m1505a98[m HEAD@{34}: checkout: moving from main to main
+[33m1505a98[m HEAD@{35}: clone: from https://github.com/ASook22/ai-coding-agents-project.git
