@@ -12,3 +12,8 @@ Software development is changing as artificial intelligence becomes more advance
 A recent example of this is OpenAI's Agents API, announced in September 2026. It allows developers to build AI agents that can use tools and work through multi-step tasks. This is important because it could change how developers build software. However, AI-generated work still needs to be checked for accuracy, quality, and security.
 
 So, are AI coding agents making developers more productive, or are they introducing new risks? Let's take a closer look at how these agents work.
+
+
+## Slide 9 — Conclusion 
+
+In conclusion, AI coding agents can help developers work faster, but they can still make mistakes. As our demonstration shows, developers must review the code, test the results, and use their own judgment. AI can assist, but humans make the final call.
